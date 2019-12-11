@@ -81,6 +81,19 @@ header a:hover {
   background: #ddd;
 }
 
+#destaque {
+  background-color: #990033;
+  color: #fff;
+}
+
+#destaque a {
+  color: #fff500;
+}
+
+#destaque a:hover {
+  color: #000;
+}
+
 #problem {
   color: #000;
 }
